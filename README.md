@@ -1,5 +1,9 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
+### Name: Suresh S
+### Reg No.: 212223040215
+### Dept: CSE
+
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
@@ -119,6 +123,15 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+<img width="478" height="591" alt="Screenshot 2026-05-15 105552" src="https://github.com/user-attachments/assets/ae372463-d65c-40f0-b96c-dca928dbd88e" />
+<img width="990" height="653" alt="image" src="https://github.com/user-attachments/assets/faae8044-ad5d-4970-aa5d-39af48da2d45" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 104721" src="https://github.com/user-attachments/assets/fe047c70-4dab-4002-9be3-b2e39251f287" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 104819" src="https://github.com/user-attachments/assets/6fde961e-a2cf-480f-b4f5-49afa743efa8" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 105002" src="https://github.com/user-attachments/assets/52c7e8c1-610a-4329-809d-2660f523f8e7" />
+<img width="1043" height="558" alt="image" src="https://github.com/user-attachments/assets/fa3413f3-994a-4604-8b3c-03e6c275692c" />
+<img width="1920" height="1140" alt="Screenshot 2026-05-15 105207" src="https://github.com/user-attachments/assets/24143ab6-2c9e-4b5f-8c9d-74c22cc48038" />
+<img width="1900" height="1187" alt="Screenshot 2026-05-15 105313" src="https://github.com/user-attachments/assets/b4ad4965-fe53-4be0-9b88-c494bc1ed9ff" />
+
 
 
 
