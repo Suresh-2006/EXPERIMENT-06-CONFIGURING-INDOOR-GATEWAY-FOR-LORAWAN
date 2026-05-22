@@ -1,9 +1,5 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
-### Name: Suresh S
-### Reg No.: 212223040215
-### Dept: CSE
-
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
@@ -123,14 +119,18 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-<img width="478" height="591" alt="Screenshot 2026-05-15 105552" src="https://github.com/user-attachments/assets/ae372463-d65c-40f0-b96c-dca928dbd88e" />
-<img width="990" height="653" alt="image" src="https://github.com/user-attachments/assets/faae8044-ad5d-4970-aa5d-39af48da2d45" />
-<img width="1920" height="1140" alt="Screenshot 2026-05-15 104721" src="https://github.com/user-attachments/assets/fe047c70-4dab-4002-9be3-b2e39251f287" />
-<img width="1920" height="1140" alt="Screenshot 2026-05-15 104819" src="https://github.com/user-attachments/assets/6fde961e-a2cf-480f-b4f5-49afa743efa8" />
-<img width="1920" height="1140" alt="Screenshot 2026-05-15 105002" src="https://github.com/user-attachments/assets/52c7e8c1-610a-4329-809d-2660f523f8e7" />
-<img width="1043" height="558" alt="image" src="https://github.com/user-attachments/assets/fa3413f3-994a-4604-8b3c-03e6c275692c" />
-<img width="1920" height="1140" alt="Screenshot 2026-05-15 105207" src="https://github.com/user-attachments/assets/24143ab6-2c9e-4b5f-8c9d-74c22cc48038" />
-<img width="1900" height="1187" alt="Screenshot 2026-05-15 105313" src="https://github.com/user-attachments/assets/b4ad4965-fe53-4be0-9b88-c494bc1ed9ff" />
+
+<img width="294" height="377" alt="Screenshot 2026-05-12 155238" src="https://github.com/user-attachments/assets/15dcd6d2-5691-429c-9604-94f20a93c906" /><br>
+<img width="959" height="512" alt="Screenshot 2026-05-12 155246" src="https://github.com/user-attachments/assets/1be65e08-0b89-4e65-a4be-370aa048084d" /><br>
+<img width="959" height="509" alt="Screenshot 2026-05-12 155335" src="https://github.com/user-attachments/assets/f9f3f252-6f1c-468e-a343-527ac9090837" /><br>
+<img width="959" height="510" alt="Screenshot 2026-05-12 155401" src="https://github.com/user-attachments/assets/8908f74d-d505-4f06-95f9-800726331783" /><br>
+<img width="959" height="508" alt="Screenshot 2026-05-12 155422" src="https://github.com/user-attachments/assets/4de9b1e3-5d79-45c8-b735-91416019ae9e" /><br>
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-12 at 4 17 28 PM" src="https://github.com/user-attachments/assets/930e3ab3-ec3b-4fcf-b250-832f8c72e0e9" /><br>
+<img width="620" height="328" alt="Screenshot 2026-05-12 160543" src="https://github.com/user-attachments/assets/6cab96f2-3cb2-494d-a821-9549c51a102b" /><br>
+<img width="956" height="473" alt="Screenshot 2026-05-12 155647" src="https://github.com/user-attachments/assets/9b126d39-1e78-4639-8b48-956a753c19e3" /><br>
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d4a1e8a-2333-4184-a657-4505e1098459" /><br><br>
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/467f2519-d67a-4102-ab49-6ffed1bd0438" /><br><br>
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b9b57a9-6af6-4db1-a9fb-bbcac48657c0" />
 
 
 
