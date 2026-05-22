@@ -120,17 +120,15 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
-<img width="294" height="377" alt="Screenshot 2026-05-12 155238" src="https://github.com/user-attachments/assets/15dcd6d2-5691-429c-9604-94f20a93c906" /><br>
-<img width="959" height="512" alt="Screenshot 2026-05-12 155246" src="https://github.com/user-attachments/assets/1be65e08-0b89-4e65-a4be-370aa048084d" /><br>
-<img width="959" height="509" alt="Screenshot 2026-05-12 155335" src="https://github.com/user-attachments/assets/f9f3f252-6f1c-468e-a343-527ac9090837" /><br>
+<img width="376" height="406" alt="image" src="https://github.com/user-attachments/assets/31e9281d-ef4d-41cd-bd88-1539ed49fac1" />
+<img width="1920" height="1099" alt="591803808-4426ceae-d699-4ba6-956a-61b9fd91df9e" src="https://github.com/user-attachments/assets/86680513-c473-42dc-9af1-2a96f73ca175" />
+<img width="959" height="417" alt="591007674-f9f3f252-6f1c-468e-a343-527ac9090837" src="https://github.com/user-attachments/assets/eb257978-f2d8-427a-b813-350a286c6c98" />
+
 <img width="959" height="510" alt="Screenshot 2026-05-12 155401" src="https://github.com/user-attachments/assets/8908f74d-d505-4f06-95f9-800726331783" /><br>
 <img width="959" height="508" alt="Screenshot 2026-05-12 155422" src="https://github.com/user-attachments/assets/4de9b1e3-5d79-45c8-b735-91416019ae9e" /><br>
-<img width="1600" height="900" alt="WhatsApp Image 2026-05-12 at 4 17 28 PM" src="https://github.com/user-attachments/assets/930e3ab3-ec3b-4fcf-b250-832f8c72e0e9" /><br>
-<img width="620" height="328" alt="Screenshot 2026-05-12 160543" src="https://github.com/user-attachments/assets/6cab96f2-3cb2-494d-a821-9549c51a102b" /><br>
-<img width="956" height="473" alt="Screenshot 2026-05-12 155647" src="https://github.com/user-attachments/assets/9b126d39-1e78-4639-8b48-956a753c19e3" /><br>
+<img width="1042" height="549" alt="image" src="https://github.com/user-attachments/assets/c8ae6a4f-94f3-4ac8-9a2b-f4997d46f0c2" />
+
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9d4a1e8a-2333-4184-a657-4505e1098459" /><br><br>
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/467f2519-d67a-4102-ab49-6ffed1bd0438" /><br><br>
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/4b9b57a9-6af6-4db1-a9fb-bbcac48657c0" />
 
 
 
